@@ -1,4 +1,6 @@
 Q) What is diff between render() in React and render() in ReactDOM ?
+
+
 Ans) In React, there are two commonly used `render()` methods: one in React and one in ReactDOM. They serve different purposes depending on the context of rendering.
 
 ### 1. **`render()` in React (Component method)**
